@@ -94,7 +94,3 @@ src/
 ## Adding Puzzles
 
 See [GAMESPROMPT.md](GAMESPROMPT.md) for the puzzle JSON schema and instructions. You can add puzzles by appending to `src/data/puzzles.json`.
-
-## License
-
-MIT
